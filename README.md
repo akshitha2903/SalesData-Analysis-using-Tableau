@@ -17,22 +17,27 @@ The dataset used in this project is the Sample - Superstore dataset provided by 
 
 ### Monthly Sales Trend Over the Years
 ![Monthly Sales Trend](./visualizations/sales_trend_over_years.png)
+
 **Description**: This visualization shows the trend of monthly sales over the years, indicating the overall sales growth.
 
 ### Sales by State
 ![Sales by State](./visualizations/sales_by_state.png)
+
 **Description**: This map illustrates the sales distribution across different states, highlighting the regions with the highest sales.
 
 ### Proportion of Sales by Region
 ![Proportion of Sales by Region](./visualizations/prop_of_sales_by_region.png)
+
 **Description**: This pie chart depicts the proportion of sales in various regions, providing insight into regional sales distribution.
 
 ### Sales for a Specific Year
 ![Sales for a Specific Year](./visualizations/sales_for_specific_year.png)
+
 **Description**: This bar chart shows the total sales for a particular year, offering a clear comparison of yearly sales.
 
 ### Total Sales by Category
 ![Total Sales by Category](./visualizations/sales_by_cat.png)
+
 **Description**: This bar chart compares the total sales across different product categories, highlighting the most profitable categories.
 
 ### Dashboard of the Visualizations
