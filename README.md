@@ -36,7 +36,8 @@ The dataset used in this project is the Sample - Superstore dataset provided by 
 **Description**: This bar chart compares the total sales across different product categories, highlighting the most profitable categories.
 
 ### Dashboard of the Visualizations
-![Dashboard](./visualizations/Dashboard_1.png)
+![Dashboard](./visualizations/Dashboard 1.png)
+
 
 ## Calculated Fields and Parameters
 - **Profit Margin**: A calculated field to determine the profit margin using the formula `[Profit] / [Sales]`.
